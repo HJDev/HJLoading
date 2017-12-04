@@ -1,0 +1,6 @@
+framework module HJLoadingView {
+  umbrella header "HJLoadingView-umbrella.h"
+
+  export *
+  module * { export * }
+}
